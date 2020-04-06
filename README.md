@@ -6,7 +6,9 @@ Life game with Pyxel.
 
 # DEMO
 
-![demo](doc/demo.gif)
+<!-- ![demo](doc/demo.gif) -->
+
+<img src="https://raw.githubusercontent.com/ytyaru/Python.Pyxel.LifeGame.20200406085225/master/doc/demo.gif" width="640" height="480" style="image-rendering: pixelated;"></img>
 
 # Requirement
 
